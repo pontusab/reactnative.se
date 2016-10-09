@@ -27,8 +27,8 @@ img {
 
 .hero {
   color: #fff;
-  padding: 90px 0;
-  margin-bottom: 20px;
+  padding: 17px 0;
+  margin-bottom: 60px;
   text-align: center;
   line-height: 32px;
   position: relative;
@@ -121,7 +121,7 @@ h1 {
 }
 
 .add {
-  padding: 50px 0;
+  padding: 100px 0 50px;
   text-align: center;
   line-height: 23px;
 }
