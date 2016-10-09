@@ -32,6 +32,21 @@ img {
   line-height: 32px;
 }
 
+.facebook {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  color: #000;
+}
+
+.facebook img {
+  width: 22px;
+  height: 22px;
+  top: 3px;
+  position: relative;
+  margin-right: 5px;
+}
+
 h1 {
   font-weight: 900;
   font-size: 38px;
@@ -93,6 +108,7 @@ h1 {
 .add {
   padding: 50px 0;
   text-align: center;
+  line-height: 23px;
 }
 
 .add a {
