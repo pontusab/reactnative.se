@@ -15,4 +15,5 @@ Lägg gärna till appar genom en [Pull Request](https://github.com/pontusab/reac
 
   <p>App-namn</p>
   <span>Företag AB</span>
-</a>```
+</a>
+```
