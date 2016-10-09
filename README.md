@@ -17,3 +17,4 @@ Lägg gärna till appar genom en [Pull Request](https://github.com/pontusab/reac
   <span>Företag AB</span>
 </a>
 ```
+* Skapa en [Pull-request](https://github.com/pontusab/reactnative.se/pulls)
