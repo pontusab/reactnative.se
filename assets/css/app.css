@@ -66,6 +66,7 @@ h1 {
   color: #fff;
   font-weight: 900;
   font-size: 44px;
+  line-height: 50px;
   padding-bottom: 20px;
 }
 
@@ -125,6 +126,7 @@ h1 {
   padding: 120px 0 50px;
   text-align: center;
   line-height: 23px;
+  line-height: 30px;
 }
 
 .add a {
