@@ -132,7 +132,6 @@ h1 {
 
 .jobs li {
   box-sizing: border-box;
-  float: left;
   border-radius: 3px;
   box-shadow: 0 2px 20px 0 rgba(0,0,0,0.1);
   width: 100%;
