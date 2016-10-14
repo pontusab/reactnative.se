@@ -131,10 +131,10 @@ h1 {
 }
 
 .jobs li {
+  width: 100%;
   box-sizing: border-box;
   border-radius: 3px;
   box-shadow: 0 2px 20px 0 rgba(0,0,0,0.1);
-  width: 100%;
   line-height: 25px;
   padding: 40px;
   margin: 20px;
