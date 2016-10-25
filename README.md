@@ -18,3 +18,17 @@ Lägg gärna till appar genom en [Pull Request](https://github.com/pontusab/reac
 </a>
 ```
 * Skapa en [Pull-request](https://github.com/pontusab/reactnative.se/pulls)
+
+
+### Lägg till uppdrag
+* Skapa nytt element i `jobs.html`
+* Lägg till följande:
+
+```html
+<li>
+  <h2>Företag</h2>
+  <a href="#">www.example.com</a>
+  <p>Beskrivning</p>
+  <span>Kontaktperson: Förnamn efternamn</span>
+</li>
+```
