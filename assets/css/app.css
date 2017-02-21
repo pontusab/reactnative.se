@@ -158,6 +158,10 @@ h1 {
   margin-bottom: 5px;
 }
 
+.slack {
+  top: 4px;
+}
+
 .app {
   margin: 30px auto 10px auto;
   width: 100%;
